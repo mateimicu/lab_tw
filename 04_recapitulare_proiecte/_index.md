@@ -5,6 +5,7 @@ draft: false
 ---
 
 [Laborator HTTP](https://profs.info.uaic.ro/~andrei.panu/lectures/EN_web02WebProgramming-HTTP-CGI.pdf)
+
 [Laborator SASS](./Sass.pdf)
 
 [Prezentarea Curs si informatii utile](https://profs.info.uaic.ro/~busaco/teach/courses/web/web-film.html#week4)
