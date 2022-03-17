@@ -31,9 +31,13 @@ Documentatie:
 * [The Good Docs Project](https://thegooddocsproject.dev/)
 * [Mega Project List](https://github.com/karan/Projects)
 * [Free for devs](https://free-for.dev/#/)
-
-Exercitii de antrenament:
+* [SAAS](https://sass-lang.com/guide)
+* [Sass Guidelines](https://sass-guidelin.es/)
 
 
 ### Exercitii
 
+1. Sa se replice pagina de mai jos folosind HTML + CSS.
+2. Sa se refactorizeze exercitiul 1 folosind SCSS sau SASS.
+
+![Landing Page](./landing.gif)
