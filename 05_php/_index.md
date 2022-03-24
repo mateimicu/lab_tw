@@ -85,6 +85,20 @@ Documentatie:
 
 3. Completati codul de mai jos
 ```php
+<html>
+<body>
+  <p> What is the closest number to 79 in the array [ 1, 4, 20, 69, 100, 145, 163, 244, 268]?</p>
 
+  <?php
+    function computeClosestNumber($target, $array) {
+      return "fix me"
+    }
+
+    $closestNumber = computeClosestNumber(79, array(1, 4, 20, 69, 100, 145, 163, 244, 268));
+
+    echo "The closest number is $closestNumber";
+  ?>
+</body>
+</html>
 ```
 
