@@ -52,7 +52,7 @@ Documentatie:
 ### Exercitii
 
 1. Creati un formular cu doau camputi "Nume" si "Email".
-```php
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -75,9 +75,8 @@ Documentatie:
     </main>
 </body>
 </html>
-
 ```
-![formular subscribe](./ex2_1.png)
+![formular subscribe](./ex1_1.png)
 ![rezultat formular subscribe](./ex1_02.png)
 
 2. Creati un formular care va ajuta sa adunati doua numere. Folotiti o functie pentru adunarea a doua numere.
