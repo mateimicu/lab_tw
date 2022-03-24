@@ -11,8 +11,7 @@ Laboratorul 7 (09.04.2022) nu se tine, vom extinde laboratorul 6 (02.04.2022) pe
 * laboratorul de la 12:00-14:00 va incepe la 12:00 si se va termina la 15:00
 
 In practica fiecare laborator va fi extins cu o ora.
-Pentru a va ajuta cu proiectele o sa avem o ora de consultatii pe data de 7.04.2022 de la 19:00 - 20:00 deschis pentru toate grupele
-
+Pentru a va ajuta cu proiectele o sa avem o ora de consultatii in saptamana 8, dar o sa stabilim mai tarziu exact cand (in functie de partialele voastre).
 [Laborator PHP](./php.pdf)
 
 [Prezentarea Curs si informatii utile](https://profs.info.uaic.ro/~busaco/teach/courses/web/web-film.html#week5)
