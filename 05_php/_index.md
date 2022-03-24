@@ -34,6 +34,7 @@ Documentatie:
 * [PHP Tutorial for Beginners](https://www.guru99.com/php-tutorials.html)
 * [Clean Code PHP](https://github.com/jupeter/clean-code-php#readme)
 * [Design Patterns in PHP](https://refactoring.guru/design-patterns/php)
+* [PHP Usage Statistics](https://w3techs.com/technologies/overview/programming_language)
 
 * [Popular tech stacks](https://stackshare.io/stacks)
 * [ddosify](https://github.com/ddosify/ddosify)
