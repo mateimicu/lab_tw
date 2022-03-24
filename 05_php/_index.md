@@ -51,3 +51,41 @@ Documentatie:
 
 ### Exercitii
 
+1. Creati un formular cu doau camputi "Nume" si "Email".
+```php
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <title>PHP Form</title>
+</head>
+<body>
+    <main>
+        <?php if ($_SERVER['REQUEST_METHOD'] === 'GET') : ?>
+          <div class="well">
+            <form action="..." method="post">
+            ...
+            </form>
+          </div>
+        <?php else : ?>
+        ...
+        <?php endif ?>
+    </main>
+</body>
+</html>
+
+```
+![formular subscribe](./ex2_1.png)
+![rezultat formular subscribe](./ex1_02.png)
+
+2. Creati un formular care va ajuta sa adunati doua numere. Folotiti o functie pentru adunarea a doua numere.
+![formular adunare](./ex2_1.png)
+![rezultat formular adunare](./ex2_2.png)
+
+3. Completati codul de mai jos
+```php
+
+```
+
