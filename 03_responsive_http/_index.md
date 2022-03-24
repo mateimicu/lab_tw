@@ -49,6 +49,7 @@ Exercitii de antrenament:
 
 1. Replicati urmatoarele elemente:
 ![Keyframe](./01_animationhs.gif)
+[Rezolvare](https://jsfiddle.net/StefanG/zm4qrxek/)
 
 2. [FLEXBOX FROGGY](https://flexboxfroggy.com/)
 

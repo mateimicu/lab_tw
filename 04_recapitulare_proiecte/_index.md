@@ -43,4 +43,6 @@ Documentatie:
 2. Sa se refactorizeze exercitiul 1 folosind SCSS sau SASS.
 
 ![Landing Page](./landing.gif)
+[Rezolvare HTML+CSS](https://jsfiddle.net/StefanG/d5m4y17v/)
+[Rezolvare SASS](https://jsfiddle.net/StefanG/284mu6ng/)
 ![Background](./beachshowcase.jpg)
