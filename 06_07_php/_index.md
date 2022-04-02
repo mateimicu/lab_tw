@@ -33,6 +33,7 @@ Documentatie:
 * [PHP Data Objects](https://www.php.net/manual/en/book.pdo.php)
 * [PHP Manual](https://www.php.net/manual/en/index.php)
 * [PHP W3schools](https://www.w3schools.com/php/)
+* [schema.org](https://schema.org/)
 
 
 ### Exercitii
