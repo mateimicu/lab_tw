@@ -4,7 +4,7 @@ date: 2022-03-03T21:46:18+02:00
 draft: false
 ---
 
-### Consulatii proiect 
+### Consulatii proiect
 
 Pentru detalii despre consultatii accesati [Proiect/Consultatii](TBD)
 
@@ -19,7 +19,7 @@ Prezentarea Curs si informatii utile:
 
 Tools:
 
-    
+
 * ⭐[ReplIT](https://replit.com/) este recomandat
 * ⭐[PlanetScale](https://planetscale.com/) pentru baze de date de test\
 * [XAMPP](https://www.apachefriends.org/ro/index.html)
@@ -46,7 +46,7 @@ Completati codul de mai jos:
     1. Exercitii usoare
         * Implementati pagina de SignUp
         * Implementati pagina de Logout
-        * Implementati PDO folosind `FETCH_CLASS` pentru a genera obiecte 
+        * Implementati PDO folosind `FETCH_CLASS` pentru a genera obiecte
     2. Exercitii avansate
         * Modificati modul de storace a parolei. In loc de text simplu sa se foloseasca un [hash si un salt](https://www.php.net/manual/en/function.password-hash.php). Atentie: trebuie salvat acel salt in baza de date si codul de validate a unui user trebuie modificat.
         * Inlocuiti implementarea de sesiuni cu [$_SESSION](https://www.php.net/manual/en/reserved.variables.session.php)
