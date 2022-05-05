@@ -37,5 +37,9 @@ Documentatie:
 
 ### Exercitii
 
-
-* TBD
+* [Exercitiu 1](https://jsfiddle.net/StefanG/eyprw2nu/)
+![ec1](./ex_1.png)
+* [Exercitiu 2](https://jsfiddle.net/StefanG/yfm5hwz2/1/)
+![ec1](./ex_2.png)
+* [Exercitiu 3](https://jsfiddle.net/StefanG/yf60dtxv/)
+![ec1](./ex_3.png)
