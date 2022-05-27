@@ -1,5 +1,5 @@
 ---
-title: "12 - TBD"
+title: "12 - REST/OPENAPI"
 date: 2022-03-03T21:46:18+02:00
 draft: false
 ---
@@ -21,6 +21,6 @@ Tools:
 
 Documentatie:
 
-
-### Exercitii
+* [Swagger Editor](https://editor.swagger.io/)
+* [OpenAPI Specification](https://swagger.io/specification/)
 
