@@ -1,5 +1,5 @@
 ---
-title: "14 - TBD"
+title: "14 - Proiecte si Demo"
 date: 2022-03-03T21:46:18+02:00
 draft: false
 ---
@@ -16,9 +16,6 @@ Tools:
 
 * ⭐[ReplIT](https://replit.com/) este recomandat
 * ⭐[PlanetScale](https://planetscale.com/) pentru baze de date de test
-
-Documentatie:
-
-
-### Exercitii
+* [Cloudflare Tunnel](https://www.cloudflare.com/products/tunnel/)
+* [jwt.io](https://jwt.io/)
 
